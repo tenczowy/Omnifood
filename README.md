@@ -12,4 +12,5 @@ https://omnifood-by-daniel.netlify.app
 
 
 
-------------------------------------   All credits for original design goes to Jonas Schmedtmann creator of Udemy course.   ----------------------------------------------------------------- 
+###
+All credits for original design goes to Jonas Schmedtmann creator of Udemy course.
